@@ -1,0 +1,13 @@
+create a repo in Git Hub Website
+craete a folder in C:\GIT Repo
+Open Git GUI from this folder and create branch in GIT UI
+Add files to C:\GIT Repo
+Go to GIT Bash Command Prompt from C:\GIT Repo and  type below commands
+git remote set-url origin https://github.com/clalitha01/bhkishan.git
+git remote add origin git@github.com/clalitha01/bhkishan.git
+
+git add fileName
+git commit -m "some message"
+got push
+(then it asks for login credentials)
+
