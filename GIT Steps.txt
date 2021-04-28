@@ -11,3 +11,5 @@ git commit -m "some message"
 got push
 (then it asks for login credentials)
 
+Pull request from feature to master:
+
