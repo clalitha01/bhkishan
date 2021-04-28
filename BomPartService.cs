@@ -19,9 +19,6 @@ namespace Verizon.API.Services.Services
     {
         DBHandler dbHandler = new DBHandler();
         private readonly IROHistService _RoHistService;
-		
-		
-		
         private readonly ICommonCodeService _CommonCodeService;
         private readonly ISeqNbrService _SeqNbrService;
         private readonly IInventoryTxnHistoryService _InventoryTxnHistoryService;
